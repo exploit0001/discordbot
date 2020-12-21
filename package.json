@@ -1,0 +1,15 @@
+{
+  "name": "discord-bot",
+  "version": "1.0.0",
+  "description": "A fully fledged bot for discord",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "exploitt",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "discord.js": "^12.5.1"
+  }
+}
